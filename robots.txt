@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jsdeica.github.io/sitemap/sitemap.txt
